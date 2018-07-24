@@ -1,6 +1,9 @@
 #! usr/bin/Python3
 import os
+<<<<<<< HEAD
 import module_control
+=======
+>>>>>>> c2eaec4219f033be1b44f8581db70dba79f07426
 
 def menu_fluit():
     print("""
@@ -22,4 +25,8 @@ while(True):
     elif opt == "2":
         os.system('clear')
     elif opt == "3":
+<<<<<<< HEAD
         pass
+=======
+        continue
+>>>>>>> c2eaec4219f033be1b44f8581db70dba79f07426
